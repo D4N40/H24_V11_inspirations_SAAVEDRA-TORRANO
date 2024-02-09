@@ -2,7 +2,6 @@
 
 ## Description de l'oeuvre
 
-![photo](20240202_142609.jpg)
 ## Type d'installation
 
 ## Mise en espace
