@@ -1,6 +1,6 @@
 # Phase shifting index
 
-
+![photo](affiche.png)
 ## Description de l'oeuvre
 
 ![photo](20240202_142609.jpg)
@@ -9,7 +9,7 @@
 ## Mise en espace
 
 ![photo](20240202_145423.jpg)
-
+![photo](Croquis.png)
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
