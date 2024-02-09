@@ -2,6 +2,7 @@
 
 ## Description de l'oeuvre
 
+![photo](
 ## Type d'installation
 
 ## Mise en espace
