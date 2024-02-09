@@ -8,6 +8,7 @@
 ## Mise en espace
 
 ![photo](20240202_145423.jpg)
+![photo](MicrosoftTeams-image.png)
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
