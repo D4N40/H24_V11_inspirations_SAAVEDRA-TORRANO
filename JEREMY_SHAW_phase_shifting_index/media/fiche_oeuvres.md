@@ -7,6 +7,7 @@
 
 ## Mise en espace
 
+
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
