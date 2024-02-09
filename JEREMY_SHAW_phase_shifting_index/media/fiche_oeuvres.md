@@ -7,7 +7,7 @@
 
 ## Mise en espace
 
-
+![photo](20240202_145423.jpg)
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
