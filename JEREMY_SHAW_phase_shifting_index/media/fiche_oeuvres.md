@@ -1,6 +1,6 @@
 # Phase shifting index
 
-![photo](affiche.png)
+
 ## Description de l'oeuvre
 
 ![photo](20240202_142609.jpg)
