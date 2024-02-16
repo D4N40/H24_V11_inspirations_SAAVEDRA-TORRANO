@@ -8,7 +8,7 @@
 
 ## Mise en espace
 
-![photo](20240202_145423.jpg)
+
 ![photo](Croquis.png)
 ## Composantes et techniques
 
