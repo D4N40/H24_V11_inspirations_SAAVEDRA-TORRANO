@@ -9,7 +9,7 @@
 ## Mise en espace
 
 
-![photo](Croquis.png)
+![photo](croquis.png)
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
