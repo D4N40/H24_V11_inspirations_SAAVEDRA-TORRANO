@@ -28,6 +28,7 @@ La composante qui devrait voyager serait les écrans où seront afficher les vid
 -Câble ( pour accrocher les haut-parleurs, les écrans et les projecteurs au toît)
 -Bancs
 
+![photo](élément.png)
 ##  Expérience vécue
 Le visiteur peut se promener dans la salle pour observer les différentes vidéos, mais il a l'option de s'asseoir pour être capable de se concentrer et s'immerger dans une des 7 vidéos présenter. Pendant un certain temps, les vidéos joue en boucle pour que le visiteur puisse observer toutes ou la majorité des vidéos et qu'il comprenne que toutes les personnes dans les vidéos sont reliés d'une certaine manière. Après un certain temps, les vidéos arrête de jouer en boucle et toute les écrans se rejoignent. Des effets visuels immerse le visiteur.
 ## Mon opinion
