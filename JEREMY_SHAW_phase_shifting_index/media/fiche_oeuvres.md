@@ -14,7 +14,7 @@ L'oeuvre est une exposition immersif qui permet au public de plonger dans les di
 L'oeuvre se trouve dans un espace large, qui a la forme d'un rectangle. Les écrans, utilisés pour afficher les vidéos qui former l'oeuvre, étaient accroché au toit. Les 7 écrans placé en 2 rangée, 4 écrans dans la rangée de devant et 3 écrans de la rangée de derrière. Tout les écrans étaient inliner dans un certain angle pour que le public puisse se concentrer dans 1 vidéo à la fois. La salle était assez spacieuse pour que le public puisse se déplacer dans la pièce. La pièce était plongée dans le noir la seule lumière provener des projecteurs. Il y a des bancs placés devant les écrans pour que le publics puissent s'asseoir.
 
 ![photo](salle.png)
-
+![photo](croquis.2.png)
 ![photo en 1000](croquis.png)
 ## Composantes et techniques
 La composante qui devrait voyager serait les écrans où seront afficher les vidéos et l'artiste doit envoyer les montages vidéos et les conceptions sonores qu'il a composer. Il devra également envoyer les effets visuels, par exemple les effets de couleurs, qu'il a fait pour l'oeuvre.
