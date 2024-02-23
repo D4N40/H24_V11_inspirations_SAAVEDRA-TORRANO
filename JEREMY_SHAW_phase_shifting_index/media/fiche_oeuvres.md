@@ -15,6 +15,7 @@ L'oeuvre se trouve dans un espace large, qui a la forme d'un rectangle. Les écr
 
 ![photo](salle.png)
 L'espace où était exposer l'oeuvre
+
 ![photo](croquis.2.png)
 Croquis de la salle d'exposition fait par le musée
 ## Composantes et techniques
