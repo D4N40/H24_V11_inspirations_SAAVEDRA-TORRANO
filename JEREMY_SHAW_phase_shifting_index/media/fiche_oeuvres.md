@@ -1,5 +1,5 @@
 # Phase shifting index
-Hors les murs présente l'oeuvre Phase Shifting Index réaliser en 2020 par l'artiste Jeremy Shawn. J'ai visité l'exposition le 2 février 2024 à La Fonderie Darling. L'exposition est situe temporairement à La Fonderie Darling jusqu'à que les rénovations du MAC (Le Musée d’art contemporain) finissent, mais c'est une exposition qui devrait être permanente et d'intérieur.
+Hors les murs présente l'oeuvre Phase Shifting Index réaliser en 2020 par l'artiste Jeremy Shawn. J'ai visité l'exposition le 2 février 2024 à La Fonderie Darling. L'exposition est située temporairement à La Fonderie Darling jusqu'à que les rénovations du MAC (Le Musée d’art contemporain) finissent, mais c'est une exposition qui devrait être permanente et d'intérieur.
 
 ![photo](affiche.png)
 ## Description de l'oeuvre
@@ -40,9 +40,11 @@ La composante qui devrait voyager serait les écrans où seront afficher les vid
 
 ![photo](élément.png)
 ##  Expérience vécue
-Le visiteur peut se promener dans la salle pour observer les différentes vidéos, mais il a l'option de s'asseoir pour être capable de se concentrer et s'immerger dans une des 7 vidéos présenter. Pendant un certain temps, les vidéos joue en boucle pour que le visiteur puisse observer toutes ou la majorité des vidéos et qu'il comprenne que toutes les personnes dans les vidéos sont reliés d'une certaine manière. Après un certain temps, les vidéos arrête de jouer en boucle et toute les écrans se rejoignent. Des effets visuels immerse le visiteur.
-[![Vidéo de l'exposition](media/exposition.png)](https://youtu.be/TSzVy9qrZQ4?si=AxLRIPvm__F0vGIQ)
+Le visiteur peut se promener dans la salle pour observer les différentes vidéos, mais il a l'option de s'asseoir pour être capable de se concentrer et s'immerger dans une des 7 vidéos présenter. Pendant un certain temps, les vidéos joue en boucle pour que le visiteur puisse observer toutes ou la majorité des vidéos et qu'il comprenne que toutes les personnes dans les vidéos sont reliés d'une certaine manière. Après un certain temps, les vidéos arrête de jouer en boucle et toute les écrans se rejoignent, des effets visuels commence à apparaitre et amène le visiteur à s'immerger .
+
+[![Vidéo de l'expérience vécu](media/exposition.png)](https://youtu.be/TSzVy9qrZQ4?si=AxLRIPvm__F0vGIQ)
 ## Mon opinion
 ### Ce qui m'a plu
-
+J'ai aimé la façon dont les écrans étaient placés et les haut-parleurs. Les haut-parleurs visés les écrans et chaque haut-parleur jouer le son de la vidéo qui jouer. De plus, leur positionnement permettez au visiteur de se concentré à une vidéo, mais il permet aussi, lorsque les vidéos se rejoignent et les effets visuels commence, d'être capable de pouvoir observer tous les écrans sans avoir besoin de se déplacer et s'immerger. J'ai adoré les effets  qui se produit dans le moment transtemporel, comme la déformation des vidéos, les couleurs qui change, le clignotement de lumière et le montage sonore qui nous déconnecter de ce monde. À la fin, il y a un brusque changement d'ambiance, la musique est calme et tous les écrans montrent la même vidéo qui est apaisante. Ceci m'a fait sentir comme si on part de cette transition transtemporelle et on revient à notre réalité. J'ai aussi adoré que les écrans fussent suspendus dans l'air. C'était une belle expérience à vivre. 
 ###  Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
+Je ne retiendrais pas les lumières qui clignotent, parce que certaines personnes sont photosensibles et j'aimerais que tout le monde soit capable de profiter de mes créations. De plus, pour certaines personnes le clignotement de lumière peut être très derangeant, j'ai une amie à qui ce type d'effet peut la mettre anxieuse au point qu'elle doit quitter la salle. 
