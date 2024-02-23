@@ -22,11 +22,11 @@ La composante qui devrait voyager serait les écrans où seront afficher les vid
 
 ![photo](écran.png)
 ## Éléments nécessaires à la mise en exposition
--Bancs
--Projecteurs
--Haut-Parleur
--Câble ( pour accrocher les haut-parleurs, les écrans et les projecteurs au toît)
--Bancs
+- Bancs
+- Projecteurs
+- Haut-Parleur
+- Câble ( pour accrocher les haut-parleurs, les écrans et les projecteurs au toît)
+- Bancs
 
 ![photo](élément.png)
 ##  Expérience vécue
