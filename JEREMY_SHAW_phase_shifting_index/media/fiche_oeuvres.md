@@ -10,7 +10,7 @@ Hors les murs présente l'oeuvre Phase Shifting Index réaliser en 2020 par l'ar
 L'oeuvre est une exposition immersif qui permet au public de plonger dans les différentes vidéos qui se présenter.
 
 [![Vidéo de l'exposition](media
-/exposition.jpg)](https://youtube.com/shorts/NE09GGckmJ8)
+/exposition.png)](https://youtube.com/shorts/NE09GGckmJ8)
 ## Mise en espace
 
 
