@@ -15,7 +15,7 @@ L'oeuvre se trouve dans un espace large, qui a la forme d'un rectangle. Les écr
 
 ![photo](salle.png)
 
-![photo en 500x375](croquis.png)
+![photo en 1000](croquis.png)
 ## Composantes et techniques
 La composante qui devrait voyager serait les écrans où seront afficher les vidéos et l'artiste doit envoyer les montages vidéos et les conceptions sonores qu'il a composer. Il devra également envoyer les effets visuels, par exemple les effets de couleurs, qu'il a fait pour l'oeuvre.
 
