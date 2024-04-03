@@ -3,7 +3,7 @@
 ## Rhizomatique
 
 ## Effet-Papillon
-
+![photo](photo_plantation_effet-papillon.png)
 ## Kigo
 
 ## Canevas-Cosmique
