@@ -2,7 +2,7 @@
 
 ## Rhizomatique
 ![photo](media/plantation_rhizomatique.png)
-Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html#Sch%C3%A9mas-ou-plans-techniques
+Source:<https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html#Sch%C3%A9mas-ou-plans-techniques>
 ## Effet-Papillon
 ![photo](media/plantation_effet-papillon.png)
 ## Kigo
