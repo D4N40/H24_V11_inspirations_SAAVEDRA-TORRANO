@@ -1,7 +1,7 @@
 # Sommaire des projects
 
 ## Rhizomatique
-
+![photo](media/plantation_rhizomatique.png)
 ## Effet-Papillon
 ![photo](media/plantation_effet-papillon.png)
 ## Kigo
