@@ -1,4 +1,4 @@
-# Sommaire des projects
+ # Sommaire des projects
 
 ## Rhizomatique
 ![photo](media/plantation_rhizomatique.png)
@@ -7,7 +7,7 @@
 ## Kigo
 ![photo](media/plantation_kigo.png)
 ## Canevas-Cosmique
-
+![photo](media/plantation_canevas_cosmique.png)
 ## 3 cours du programme incontournables pour avoir les compétences pour créer ce genre projet
 
 ## Technique ou composante technologique utilisé dans un des projects
