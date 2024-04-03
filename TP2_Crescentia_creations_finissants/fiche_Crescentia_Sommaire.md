@@ -34,9 +34,5 @@ Source:<https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/prepr
 ## Technique ou composante technologique utilisé dans un des projects
 
 ## Préférence des projects
-1=Sonalux
-2=Rhizomatique
-3=Canevas Cosmique
-4=Kigo
-5=Effet-Papillon
+Mon projet préféré est *Sonalux*
 
