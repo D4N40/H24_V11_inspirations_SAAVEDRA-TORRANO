@@ -5,7 +5,7 @@
 ## Effet-Papillon
 ![photo](media/plantation_effet-papillon.png)
 ## Kigo
-
+![photo](media/plantation_kigo.png)
 ## Canevas-Cosmique
 
 ## 3 cours du programme incontournables pour avoir les compétences pour créer ce genre projet
