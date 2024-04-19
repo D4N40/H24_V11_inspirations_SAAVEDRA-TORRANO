@@ -19,3 +19,5 @@ Jade Séguela travaille comme registraire dans le studio *Antimodular* avec l'ar
 
 
 ![photo](translation_stream_abu_dhabi_2023.jpg)
+
+**Source**:https://lozano-hemmer.com/showimage_emb.php?proj=translation_stream&img=abu_dhabi_2023&idproj=405&type=artwork&id=5
