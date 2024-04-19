@@ -18,4 +18,4 @@ Jade Séguela travaille comme registraire dans le studio *Antimodular* avec l'ar
 **Conclusion**: *appréciation qui sera appuyée d'une justification*
 
 
-![photo](translation_stream_abu_dhabi_2023)
+![photo](translation_stream_abu_dhabi_2023.jpg)
