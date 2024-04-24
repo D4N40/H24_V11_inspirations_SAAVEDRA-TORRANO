@@ -21,6 +21,7 @@ Les expositions de *Rafael Lozano-Hemmer* sont interactives.Elles s'active par d
 *Translattion Stream* est une oeuvre non-permanente qui s'est fait exposé sur une île déserte en face  d'Abu Dhabi où il y avait jamais eu d'humain.C'est une projection au sol d'un poem qui est traduit de l'arabe à l'anglais.Elle prend 2 heures et demi pour finir tout le parcours. L'oeuvre s'active par une interaction passive du public qui est de marcher. Elle est former de 12 colonnes et de 12 projecteurs et tout était en noir pour que le public puisse mettre leur concentration dans l'art et non sur la technologie. Elle a durée 3 mois en exposition  et sa a pris 3 semaine pour l'installer avec 12 à 20 heures de travaille par jour. Certains des enjeux que l'équipe de Rafael a eu était la corrosion, la plui, l'électricité ( il était sur une île déconnecté de la ville), le sable et la faune.Les boîtes qui transporter les projecteurs devait avoir un air conditionner pour que la boîte ne se rechauffe et que le projecteur se brise.
 
 **Conclusion**: *appréciation qui sera appuyée d'une justification*
+
 J'ai apprécier la conférence donner par Jade Séguela. Elle donner beaucoup d'informations sur un peu de tout ce qui était très informatif et elle répondait, par rapport à sa propre expérience ,très bien les questions qui lui était posé durant la conférence.De plus, j'ai apprécier la vidéo qu'elle avait montrer qui aidé à l'explication d'une des expositions.
 
 ![photo](translation_stream_abu_dhabi_2023.jpg)
