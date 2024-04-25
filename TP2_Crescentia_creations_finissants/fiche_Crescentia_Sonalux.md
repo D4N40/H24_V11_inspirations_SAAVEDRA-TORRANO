@@ -6,7 +6,7 @@ Crescentia a présenter l'oeuvre *Sonalux* réaliser en 2024 par Antoine Haddad,
 ## Type d'installation
 L'oeuvre est une installation immersive et interactive, parce qu'elle permet au visiteur de plonger dans le paysage visuel et sonores et elle lui permet de créer son monde immersive en jouant avec les sons et avec le visuel.
 ## Mise en espace
-
+![photo](media/plantation_sonalux.png)
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
