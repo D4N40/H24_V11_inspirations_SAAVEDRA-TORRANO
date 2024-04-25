@@ -29,10 +29,11 @@ Les créateurs du projet *Canevas-Cosmique* sont Jacob Alarie-Brousseau, Étienn
 
 Source:<https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html#Sch%C3%A9mas-ou-plans-techniques>
 
-## 3 cours du programme incontournables pour avoir les compétences pour créer ce genre projet
+## 3 cours du programme incontournables 
+Je pense que le cours d'interactivité ludique, de réalité mixte et d'objets interactifs sont indispensable pour avoir les compétences nécessaires pour créer ce type d'installation.[..]
 
 ## Technique ou composante technologique utilisé dans un des projects
-
+J'ai remarquer que quelques projects utilisé la kinect. Je ne connaissait pas cette composante, mais après quelques recherches j'ai pu comprendre son utilité. La kinect est une caméra qui permet le contrôle d'une interface sans l'utilisation d'un mannette. On peut interagir avec la kinect par une commande vocal ou par la reconnaisance de mouvement ou d'image.
 ## Préférence des projects
-Mon projet préféré est *Sonalux*
+Mon projet préféré est *Sonalux*  
 
