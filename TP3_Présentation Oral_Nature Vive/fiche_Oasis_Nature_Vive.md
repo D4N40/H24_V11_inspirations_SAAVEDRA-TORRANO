@@ -1,5 +1,5 @@
 # Nature Vive
-
+OASIS présente l'oeuvre *Nature Vive* réaliser en 2022 en collaboration avec l'équipe de **National Geographic**.
 
 ## Description de l'oeuvre
 
@@ -8,7 +8,7 @@
 
 
 ## Mise en espace
-![photo](media/salle_croquis.png)
+
 
 ## Composantes et techniques
 
