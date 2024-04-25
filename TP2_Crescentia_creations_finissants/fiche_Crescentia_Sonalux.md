@@ -12,8 +12,33 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 
 ![photo](media/plantation_sonalux.png)
 ## Composantes et techniques
+- Fils XLR 3 conducteurs de 15' (M->F)
+- Interface audio USB disposant 8 sorties et au moins 1 entrée
+- Carte de son
+- Fils cat6a de 15"
+- Switch POE 5 ports
+- M5Stack
+- Atom Lite
+- Atom POE
+- Angle Unit
+- Key Unit
+- ToF Unit
+- PBHub
+- GroveHub
+- PaHub
 
 ## Éléments nécessaires à la mise en exposition
+- Projecteurs
+- Tubes DEL
+- Hauts-parleurs
+- casque d'écouteurs
+- Spotlight
+- Podium
+- Mur mobiles
+- Extensions pour les câbles
+- Ordinateur portable
+- Câbles pour haut-parleurs
+- Crochets ( pour accrocher les projecteurs, hauts-parleurs et spotlight au pont qui est au plafond)
 
 ##  Expérience vécue
 
