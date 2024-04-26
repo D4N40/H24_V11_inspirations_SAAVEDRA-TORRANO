@@ -15,7 +15,7 @@ Les composantes du dispositifs sont le robot MECA500, la caméra, le montage son
 - Vitrine
 - Bouton
 ##  Expérience vécue
-
+J'ai trouver très intéressant le robot qui danse. Je trouve que c'est une façon intéressante de présenter les installations de multimédia aux enfants surtout quand il y a une interaction .
 ## Mon opinion
 ### Ce qui m'a plu
 
