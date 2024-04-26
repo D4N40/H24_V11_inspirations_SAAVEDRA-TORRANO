@@ -4,6 +4,8 @@ Le centre des sciences de Montréal présente *Danse, robot, danse!*, qui est un
 ## Description de l'oeuvre
 *Danse, robot, danse!* est un robot qui danse dépendant les blocs qu'on lui place. Chaque bloc est un mouvement différent ou une expression différente. En plaçant les blocs dans un certain ordre, permet au robot de recréer ses mouvements et/ou expression dans le même ordre. Pendant qu'il danse, il y a une petite musique qui sonne à partir du petit haut-parleur qui est dans la table.
 
+<img src="media/robot.png" height="500">
+
 ## Type d'installation
 C'est une installation interactive parce qu'elle permet aux visiteurs d'interagir avec le robot en lui proposant de placer des blocs pour que le robot puisse commencer à danser.
 ## Mise en espace
