@@ -8,7 +8,7 @@ Le centre des sciences de Montréal présente *Danse, robot, danse!*, qui est un
 
 <img src="media/robot.png" height="500">
 
-[![Vidéo de l'exposition](Galerie 3)](https://youtube.com/shorts/TLgB8QiARGw?si=mt9TIy3-mXsEyFmj)
+[![Vidéo de l'exposition](Robot qui danse)](https://youtube.com/shorts/TLgB8QiARGw?si=mt9TIy3-mXsEyFmj)
 
 ## Type d'installation
 C'est une installation interactive parce qu'elle permet aux visiteurs d'interagir avec le robot en lui proposant de placer des blocs pour que le robot puisse commencer à danser.
