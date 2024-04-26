@@ -1,12 +1,14 @@
  # Sommaire des projects
 
 ## Rhizomatique
-Les créateurs du projet *Rhizomatique* sont  Jolyanne Desjardins, Maïka Désy, Laurie Houde, et Felix Testa Radovanovic.Le mot "Crescentia" veut dire croissance en *latin*.Le lien avec le thème *Crescentia* est que, dans l'exposition Rhizomatique, le public voyage dans le passé d'une autre personne, donc elle observe la croissance que sa soit psychologique ou physique de l'autre personne.
+Les créateurs du projet *Rhizomatique* sont  Jolyanne Desjardins, Maïka Désy, Laurie Houde, et Felix Testa Radovanovic.Le mot "Crescentia" veut dire croissance en *latin*.Le lien avec le thème *Crescentia* est que, dans l'exposition Rhizomatique, le public voyage dans le passé d'une autre personne, donc elle observe la croissance que sa soit psychologique ou physique de l'autre personne. 
 
 #### Voici le schéma de l'installation prévue:
 ![photo](media/plantation_rhizomatique.png)
 
 Source:<https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html#Sch%C3%A9mas-ou-plans-techniques>
+
+Je pense que je sentirais comme si je voyage dans le cerveau d'une autre personne qui m'est inconnue. S
 ## Effet-Papillon
 Les créateurs du project *Effet-Papillon* sont Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre. Le lien avec le thème Crescentia est que le public observe tout ce qui provoque la croissance de l'arbre et ce qui se passe dans son environnement.
 
