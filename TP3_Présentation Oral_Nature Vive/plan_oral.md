@@ -1,6 +1,7 @@
 *Introduction : Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
  Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)*
-La présentation portera sur Nature Vive qui est présenté par OASIS immersion. Nature Vive 
+
+La présentation portera sur Nature Vive qui est présenté par OASIS immersion. Nature Vive a pour but de nous rappeler l'importance de préserver notre planète en nous reconnectant avec la nature. Je présenterais quelques informations sur l'oeuvre, l'oeuvre en soi-même et mon expérience personelle.
 
  
 *Développement : Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
@@ -8,6 +9,8 @@ La présentation portera sur Nature Vive qui est présenté par OASIS immersion.
  Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
  Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
  Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session*
+
+Nature Vive a été produite par OASIS Studios immersifs en collaboration avec National Geographic en 2022 
 
 
  
