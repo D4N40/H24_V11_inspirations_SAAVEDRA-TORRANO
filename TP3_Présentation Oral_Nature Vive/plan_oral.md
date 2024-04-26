@@ -10,7 +10,9 @@ La présentation portera sur Nature Vive qui est présenté par OASIS immersion.
  Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
  Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session*
 
-Nature Vive a été produite par OASIS Studios immersifs en collaboration avec National Geographic en 2022 
+Nature Vive a été produite par OASIS Studios immersifs en collaboration avec National Geographic en 2022 suite à que 196 pays adopte le Cadre mondial de la biodiversité de Kunming-Montréal au Palais des congrès.C'est une exposition temporaire et non-permanente, parce qu'elle sera seulement ouverte au public du 22 février au 31 mai 2024 au Palais de congrès. J'ai visité l'exposition le 5 mars.
+
+Nature Vive est diviser en 3 galerie. La première galerie immerse le visiteur dans la diversité de la nature, donc les écosystèmes, les espèces, les microorganisme, ect. La deuxième galerie nous mène à explorer chaque élément de la nature et nous montre la fragilité des liens qu'il y a dans la nature. La dernière galerie nous montre les initiatives qui se sont pris à l'échelle mondial .
 
 
  
