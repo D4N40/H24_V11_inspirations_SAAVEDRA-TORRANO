@@ -2,13 +2,13 @@
 OASIS immersion présente l'oeuvre *Nature Vive* réaliser en 2022 en collaboration avec l'équipe de **National Geographic**. L'OASIS immersion est un musé qui met en scène des arts immersifs et présente des sujets d'actualité. J'ai  visité *Nature Vive*  le 5 mars 2024. C'est une exposition temporaire et non-permanente qui se trouve  au Palais de congrès et qui sera ouvert jusqu'au 31 mais 2024
 
 ## Description de l'oeuvre
-  <<Dans le premier tableau de l'exposition, grâce aux images saisissantes de National Geographio, nous vous invitons à renouer avec la nature. Vous serez immergés dans sa splendeur, sa grandeur et sa richesse en diversité.Cette oeuvre fait également écho à l'immense capacité de régénération des écosystèmes lorsqu'ils sont préservés. C'est une célébration de la force tranquille qui réside dans l'ensemble des espèces et des microorganismes-bref' dans l'ensemble du monde vivant.>>
+   <<Dans le premier tableau de l'exposition, grâce aux images saisissantes de National Geographio, nous vous invitons à renouer avec la nature. Vous serez immergés dans sa splendeur, sa grandeur et sa richesse en diversité.Cette oeuvre fait également écho à l'immense capacité de régénération des écosystèmes lorsqu'ils sont préservés. C'est une célébration de la force tranquille qui réside dans l'ensemble des espèces et des microorganismes-bref' dans l'ensemble du monde vivant.>>
  Source: Cartel de *Un monde en régération* présenter avant l'oeuvre
 
- <<Dans ce deuxième tableau, l'art numérique et la science se rencontrent pour illustrer un principe fondamental: l'interdépendance des espèces. Ici, grâce à des techniques sophistiquées d'art numérique génératif, nous explorons comment chaque élément de la nature, de la plus petite cellule organique aux vastes réseaux de racines, est connecté dans une danse complexe et vitale.>>
+  <<Dans ce deuxième tableau, l'art numérique et la science se rencontrent pour illustrer un principe fondamental: l'interdépendance des espèces. Ici, grâce à des techniques sophistiquées d'art numérique génératif, nous explorons comment chaque élément de la nature, de la plus petite cellule organique aux vastes réseaux de racines, est connecté dans une danse complexe et vitale.>>
  Source: Cartel de *Nous sommes interconnectés* présenter avant l'oeuvre
 
-  <<Le dernier tableau  de l'exposition Nature Vive est une mosaïque vivante de la résilience de la nature et de l'ingéniosité humaine. L'oeuvre immersive illustre comment des efforts conjugués peuvent transformer notre relation avec la Terre et renverser des cycles destructeurs.>>
+   <<Le dernier tableau  de l'exposition Nature Vive est une mosaïque vivante de la résilience de la nature et de l'ingéniosité humaine. L'oeuvre immersive illustre comment des efforts conjugués peuvent transformer notre relation avec la Terre et renverser des cycles destructeurs.>>
   Source: Cartel de *Élevons-nous face aux défis* présenter avant l'oeuvre
 
 ## Type d'installation
