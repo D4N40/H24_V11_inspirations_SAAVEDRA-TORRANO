@@ -1,6 +1,8 @@
 # Robot qui danse 
 Le centre des sciences de Montréal présente *Danse, robot, danse!*, qui est un robot qui s'anime selon les blocs qui lui sont placés, créer par **Ubisoft**. J'ai visité le centre des sciences le 5 avril 2024. C'est une exposition qui est permanente, le dispositif sera mis en exposition jusqu'à que celui-ci ne marche plus.
 
+<img src="media/emplacement_oeuvre.png" height="500">
+
 ## Description de l'oeuvre
 *Danse, robot, danse!* est un robot qui danse dépendant les blocs qu'on lui place. Chaque bloc est un mouvement différent ou une expression différente. En plaçant les blocs dans un certain ordre, permet au robot de recréer ses mouvements et/ou expression dans le même ordre. Pendant qu'il danse, il y a une petite musique qui sonne à partir du petit haut-parleur qui est dans la table.
 
@@ -12,6 +14,9 @@ C'est une installation interactive parce qu'elle permet aux visiteurs d'interagi
 Le robot se trouve dedans une vitrine et sur une table. Devant la vitrine, il y a des blocs, des trous pour placer les blocs, un bouton jaune et un petit haut-parleur incruster dans la table. Dedans la vitrine, on peut observer une petite caméra. Le champ de vision de la caméra est vers les trous où on peut placer les blocs.
 ## Composantes et techniques
 Les composantes du dispositif sont le robot MECA500, la caméra, le montage sonore (la musique), les blocs qui indiquent au robot ses mouvements et les différents câbles nécessaires à son fonctionnement.
+
+<img src="media/blocs_de_bois.png" height="500">
+
 ## Éléments nécessaires à la mise en exposition
 - Table
 - Vitrine
