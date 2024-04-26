@@ -32,6 +32,7 @@ Les composantes seraient les montages vidéos et montages sonores de chaque gale
 - Papillon faite de plastique holographique ( de la première galerie )
 
 ##  Expérience vécue
+J'ai beaucoup apprècier mon expérience de Nature Vive. L'oeuvre accompli son but d'immersion, les chambres sont plongée dans la noirceur. La seule lumière provient des écrans et les hauts-parleurs étaient placés tout autour de la salle et il y avait une resonnance. De plus, dans les 2 dernières galeries, il y avait une projection au sol. Dans la dernière galerie, la projection au sol suivait nos pas. Je sentais que je fesait parti de l'oeuvre. 
 
 
 ## Mon opinion
