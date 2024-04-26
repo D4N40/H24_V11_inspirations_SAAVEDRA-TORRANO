@@ -17,7 +17,7 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 <img src="media/disposition.png" height="500">
 
 
-[![Vidéo de l'exposition](Galerie 3)](https://youtu.be/H0Gq3fmHAjs)
+[![Vidéo de l'exposition](Sonalux)](https://youtu.be/H0Gq3fmHAjs)
 
 ## Composantes et techniques
 - Fils XLR 3 conducteurs de 15' (M->F)
