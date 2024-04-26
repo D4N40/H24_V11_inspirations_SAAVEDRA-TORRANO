@@ -1,6 +1,8 @@
 # Nature Vive
 OASIS immersion présente l'œuvre *Nature Vive* réaliser en 2022 en collaboration avec l'équipe de **National Geographic**. L'OASIS immersion est un musée qui met en scène des arts immersifs et présente des sujets d'actualité. J'ai visité *Nature Vive* le 5 mars 2024. C'est une exposition temporaire et non-permanente qui se trouve au Palais de congrès et qui sera ouvert jusqu'au 31 mai 2024.
 
+<img src="media/Emplacement_de_l'exposition.png" height="500">
+
 ## Description de l'oeuvre
 > <<Dans le premier tableau de l'exposition, grâce aux images saisissantes de National Geographio, nous vous invitons à renouer avec la nature. Vous serez immergés dans sa splendeur, sa grandeur et sa richesse en diversité.Cette oeuvre fait également écho à l'immense capacité de régénération des écosystèmes lorsqu'ils sont préservés. C'est une célébration de la force tranquille qui réside dans l'ensemble des espèces et des microorganismes-bref' dans l'ensemble du monde vivant.>>
  
