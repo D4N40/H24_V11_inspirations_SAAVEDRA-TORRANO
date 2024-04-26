@@ -43,9 +43,9 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 - Crochets ( pour accrocher les projecteurs, hauts-parleurs et spotlight au pont qui est au plafond)
 
 ##  Expérience vécue
-J'ai adoré le fait qu'on puisse contrôler la composition sonore et le visuelle avec les switch. Il y avait 4 key unit et 5 tof unit. Les keys contrôler les sons et les tof controler le visuel. Sa permet au visiteur de créer son propre monde immersif et d'experimenter avec toutes les touches. J'ai aimer que cette oeuvre soit immersif et interactif.
+J'ai adoré que l'oeuvre soit immersif et interactif. J'ai trouver très
 ## Mon opinion
 ### Ce qui m'a plu
-
+J'ai adoré le fait qu'on puisse contrôler la composition sonore et le visuelle avec les switch. Il y avait 4 key unit et 5 tof unit. Les keys contrôler les sons et les tof controler le visuel. Sa permet au visiteur de créer son propre monde immersif et d'experimenter avec toutes les touches. J'ai aimer que cette oeuvre soit immersif et interactif.
 ###  Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
 
