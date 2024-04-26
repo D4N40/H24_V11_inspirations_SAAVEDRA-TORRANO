@@ -35,5 +35,5 @@ Je pense que le cours d'interactivité ludique, de réalité mixte et d'objets i
 ## Technique ou composante technologique utilisé dans un des projects
 J'ai remarquer que quelques projects utilisé la kinect. Je ne connaissait pas cette composante, mais après quelques recherches j'ai pu comprendre son utilité. La kinect est une caméra qui permet le contrôle d'une interface sans l'utilisation d'un mannette. On peut interagir avec la kinect par une commande vocal ou par la reconnaisance de mouvement ou d'image.
 ## Préférence des projects
-Mon projet préféré est *Sonalux*  
+Mon projet préféré est *Sonalux* parce que c'est le project le plus immersif à mon avis. Les autres oeuvres étaient intéressantes mais *Sonalux* étaient celui qui a attiré le plus mon attention, le deuxième serait *Rhizomatique*. Je pense que cette oeuvre et celui qui arrive à avoir une plus grande connection avec le visiteur et permet au visiteur de s'explorer.
 
