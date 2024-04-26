@@ -43,7 +43,7 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 - Crochets ( pour accrocher les projecteurs, hauts-parleurs et spotlight au pont qui est au plafond)
 
 ##  Expérience vécue
-J'ai adoré que l'oeuvre soit immersif et interactif. J'ai trouver très
+Le visiteur se place devant le podium et commence à jouer avec les key unit et les tof unit. Il peut porter le casque d'écouteur pour écouter mieux la composition sonore, mais c'est pas obligatoire puisqu'il y a des hauts-parleurs. En jouant des key units il rajoute ou enleve des sons et en jouant avec les tof units il joue avec le visuelle.
 ## Mon opinion
 ### Ce qui m'a plu
 J'ai adoré le fait qu'on puisse contrôler la composition sonore et le visuelle avec les switch. Il y avait 4 key unit et 5 tof unit. Les keys contrôler les sons et les tof controler le visuel. Sa permet au visiteur de créer son propre monde immersif et d'experimenter avec toutes les touches. J'ai aimer que cette oeuvre soit immersif et interactif.
