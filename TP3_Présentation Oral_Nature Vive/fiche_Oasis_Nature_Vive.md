@@ -36,7 +36,7 @@ Les composantes seraient les montages vidéos et montages sonores de chaque gale
 
 ## Mon opinion
 ### Ce qui m'a plu
-
+Pour mes futures créations, j'aimerais retenir l'ambiance de l'oeuvre, donc les lumières, la sonorisation et la résonnance, parce qu'elle permet plus facilement au visisteur le sentiment d'immersion.Aussi, le fait que chaque galerie ait son propre sujet , mais qu'ils soient une lien en commun et l'ordre dont les galeries sont disposé. J'avais l'impression que la première galerie était comme une introduction, la deuxième était le développement et le dernier était la conclusion.
 
 ###  Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
-
+Ce que je changerais serait les bancs, c'est un petit détail mais que je trouve assez pertinent pour les visiteurs. Dans la première salle, il étaient très comfortable ce qui faciliter l'immersion mais dans les 2 autres c'étaient des bancs en plastiques (les grands) ou des petit bancs de tissu sans dorsale. Je comprend que le but de ses salles est de se déplacer, un peu moins pour la deuxième, mais puisque c'est une oeuvre pour tous les âges, je trouve que sa serait préférable des bancs plus comfortable. Je trouverais sa pertinent pour l'immersion et pour les visiteurs.
