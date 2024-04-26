@@ -21,7 +21,7 @@ OASIS immersion présente l'œuvre *Nature Vive* réaliser en 2022 en collaborat
 L'œuvre se dispose en 3 galeries. La première galerie se dispose de plusieurs fauteuils et de chaises berçante pour que les personnes puissent s'asseoir. Il y avait aussi au centre de la salle, un grand meuble rond et un miroir entouré de papillon holographique qui était accroché au pont qui est accroché au plafond. Dans la deuxième galerie, il y avait des petits bancs ronds dispersé dans toute la salle et un grand banc long en forme de "s" se trouver au milieu de la salle. Il y avait quelques structures illuminées en forme de cristaux faits de toile collée au banc et quelques miroirs circulaire accroché au pont du plafond au centre de la salle. Dans la troisième galerie, il y avait quelques bancs autour de la salle avec un grand banc au centre en forme de cercle. Dans toutes les salles, il y avait des projecteurs et des hauts-parleurs.
 <img src="media/salle_croquis.png" height="500">
 
-![photo](media/installation_salle_1.png)![photo](media/installation_salle_2.png)
+<img src="media/installation_salle_1.png" height="500"><img src="media/installation_salle_2.png" height="500">
 
 
 [![Vidéo de l'exposition](Galerie 3)](https://youtu.be/5llRT7G0XxQ?si=fT3NFgIWCavgImtJ)
