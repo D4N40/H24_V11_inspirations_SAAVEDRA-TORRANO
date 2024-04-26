@@ -1,5 +1,3 @@
-*Introduction : Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
- Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)*
 
 La présentation portera sur Nature Vive qui est présenté par OASIS immersion. Nature Vive a pour but de nous rappeler l'importance de préserver notre planète en nous reconnectant avec la nature. Je présenterais quelques informations sur l'oeuvre, l'oeuvre en soi-même et mon expérience personelle.
 
@@ -12,8 +10,8 @@ La présentation portera sur Nature Vive qui est présenté par OASIS immersion.
 
 Nature Vive a été produite par OASIS Studios immersifs en collaboration avec National Geographic en 2022 suite à que 196 pays adopte le Cadre mondial de la biodiversité de Kunming-Montréal au Palais des congrès.C'est une exposition temporaire et non-permanente, parce qu'elle sera seulement ouverte au public du 22 février au 31 mai 2024 au Palais de congrès. J'ai visité l'exposition le 5 mars.
 
-Nature Vive est diviser en 3 galerie. La première galerie immerse le visiteur dans la diversité de la nature, donc les écosystèmes, les espèces, les microorganisme, ect. La deuxième galerie nous mène à explorer chaque élément de la nature et nous montre la fragilité des liens qu'il y a dans la nature. La dernière galerie nous montre les initiatives qui se sont pris à l'échelle mondial .
-
+Nature Vive est diviser en 3 galerie. La première galerie ( Un monde en régénération) immerse le visiteur dans la diversité de la nature, donc les écosystèmes, les espèces, les microorganisme, ect. La deuxième galerie ( Nous sommes interconnectés) nous mène à explorer chaque élément de la nature et nous montre la fragilité des liens qu'il y a dans la nature. La dernière galerie (Élevons-nous face aux défis) nous montre les initiatives qui se sont pris à l'échelle mondial. C'est une installation immerive qui a pour but de créer une connection entre le visiteur et la nature. Il y avait des bancs, des chaises berçante et des fauteuils dans chaque galerie pour que le visiteur puisse s'asseoir et profiter de l'oeuvre. Il y avait aussi des hauts-parleurs et des projecteurs. Dans la première galerie, au centre de la salle, il y avait un grand mirroir attacher au pont du plafond entouré par des papillons faits de plastique holographique.Dans la deuxieme, il y avait aussi au centre de la salle quelques mirroirs suspendus et au sols dispersé dans la salle, il y avait des cristaux fait en tissu qui s'illuminer. Les composantes de l'oeuvre serait le montage vidéo et montage sonore de chaque galerie.
+Expérience vécue
 
  
 *Conclusion :Rappel des aspects présentés
