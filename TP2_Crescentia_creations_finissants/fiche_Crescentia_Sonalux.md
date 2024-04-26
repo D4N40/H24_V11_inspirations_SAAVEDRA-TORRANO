@@ -13,6 +13,9 @@ L'œuvre est une installation immersive et interactive, parce qu'elle permet au 
 Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html (préproduction de l'équipe de production de Sonalux)
 
 ![photo](media/plantation_sonalux.png)
+
+<img src="media/disposition.png" height="500">
+
 ## Composantes et techniques
 - Fils XLR 3 conducteurs de 15' (M->F)
 - Interface audio USB disposant 8 sorties et au moins 1 entrée
@@ -29,6 +32,8 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 - GroveHub
 - PaHub
 
+<img src="media/podium.png" height="500">  
+
 ## Éléments nécessaires à la mise en exposition
 - Projecteurs
 - Tubes DEL
@@ -41,6 +46,8 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 - Ordinateur portable
 - Câbles pour haut-parleurs
 - Crochets ( pour accrocher les projecteurs, hauts-parleurs et spotlight au pont qui est au plafond)
+
+  <img src="media/composante.png" height="500">
 
 ##  Expérience vécue
 Le visiteur se place devant le podium et commence à jouer avec les key unit et les tof unit. Il peut porter le casque d'écouteur pour écouter mieux la composition sonore, mais ce n'est pas obligatoire puisqu'il y a des hauts-parleurs. En jouant des key units, il rajoute ou enlève des sons et, en jouant avec les tof units, il joue avec le visuelle. Quand le visiteur joue avec les key units et tof units, les tubes de lumière sur le podium change dépendamment ce que le visiteur change.
