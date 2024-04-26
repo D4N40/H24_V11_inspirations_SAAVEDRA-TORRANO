@@ -43,9 +43,9 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 - Crochets ( pour accrocher les projecteurs, hauts-parleurs et spotlight au pont qui est au plafond)
 
 ##  Expérience vécue
-Le visiteur se place devant le podium et commence à jouer avec les key unit et les tof unit. Il peut porter le casque d'écouteur pour écouter mieux la composition sonore, mais c'est pas obligatoire puisqu'il y a des hauts-parleurs. En jouant des key units il rajoute ou enleve des sons et en jouant avec les tof units il joue avec le visuelle.
+Le visiteur se place devant le podium et commence à jouer avec les key unit et les tof unit. Il peut porter le casque d'écouteur pour écouter mieux la composition sonore, mais c'est pas obligatoire puisqu'il y a des hauts-parleurs. En jouant des key units il rajoute ou enleve des sons et en jouant avec les tof units il joue avec le visuelle. Quand le visiteur joue avec les key units et tof units, les tube de lumière sur le podium change dépendament ce que le visiteur change.
 ## Mon opinion
 ### Ce qui m'a plu
-J'ai adoré le fait qu'on puisse contrôler la composition sonore et le visuelle avec les switch. Il y avait 4 key unit et 5 tof unit. Les keys contrôler les sons et les tof controler le visuel. Sa permet au visiteur de créer son propre monde immersif et d'experimenter avec toutes les touches. J'ai aimer que cette oeuvre soit immersif et interactif.
+J'ai adoré le fait qu'on puisse contrôler la composition sonore et le visuelle avec les key units et tof units. Il y avait 4 key unit et 5 tof unit. Les keys contrôler les sons et les tof controler le visuel. Sa permet au visiteur de créer son propre monde immersif et d'experimenter avec toutes les touches. J'ai aimer que cette oeuvre soit immersif et interactif.
 ###  Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
-
+J'ai vraiment aimé cette oeuvre, donc il y n'y a pas grand choses que je ferait autrement. Je voudrais rajouter que les mur soit tactile, donc quand le visiteur passe sa main sur le mur, les lignes bouge selon le mouvement de la main. Sa permetrait au visiteur de se déplacer et pouvoir avoir contact. avec le monde immersif qu'il a lui-même créer.
