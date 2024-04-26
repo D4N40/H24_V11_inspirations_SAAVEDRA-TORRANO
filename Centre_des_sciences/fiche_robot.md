@@ -1,5 +1,5 @@
 # Robot qui danse 
-Le centre des sciences de montréal présente *Danse,robot,danse!*, qui est un robot qui s'anime selon les blocs qui lui sont placé, créer par **Ubisoft**. J'ai visité le centre des sciences le 5 avril 2024.C'est une exposition qui est permanente, le dispositif sera mis en exposition jusqu'à que celui-ci ne marche plus.
+Le centre des sciences de Montréal présente *Danse, robot, danse!*, qui est un robot qui s'anime selon les blocs qui lui sont placés, créer par **Ubisoft**. J'ai visité le centre des sciences le 5 avril 2024. C'est une exposition qui est permanente, le dispositif sera mis en exposition jusqu'à que celui-ci ne marche plus.
 
 ## Description de l'oeuvre
 *Danse, robot, danse!* est un robot qui danse dépendant les blocs qu'on lui place. Chaque bloc est un mouvement différent ou une expression différente.En plaçant les blocs dans un certains ordre, permet au robot de recréer ses mouvements et/ou expression dans le même ordre. Pendant qu'il danse , il y a une petite musique qui sonne à partir du petit haut-parleur qui ancré dans la table.
