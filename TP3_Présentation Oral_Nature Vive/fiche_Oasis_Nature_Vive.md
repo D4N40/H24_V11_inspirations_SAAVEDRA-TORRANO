@@ -5,16 +5,21 @@ OASIS immersion présente l'oeuvre *Nature Vive* réaliser en 2022 en collaborat
 
 
 ## Type d'installation
-
+*Nature Vive* est une installation immersif permet aux visiteurs d'explorez  la nature dans toute sa splendeur.
 
 ## Mise en espace
-
+L'oeuvre se dispose en 3 galerie. La première galerie présente *Un monde en régénération* qui se dispose de plusieurs fauteuil bean bag et de chaises berçante pour que les personne puissent s'asseoir. Il y avait aussi au centre de la salle, un grand meuble rond et  un mirroir entourer de papillon holographique qui était accrocher  au pont accrocher au plafond. Dans la deuxième galerie, il y avait des petits bancs ronds dispersé dans toute la salle et un grand banc long en forme de s se trouver au milieu de la salle. Il y avait quelques structure illuminé en forme de cristaux fait de toile coller au banc et quelques mirroires circulaire accrocher au pont du plafond  au centre de la salle. Dans la troisième galerie, il y avait quelques bancs autour de la salle avec un grand banc au ceentre en forme de cercle. Dans toutes les salles, il y avait des projecteurs et des hauts-parleurs.
 
 ## Composantes et techniques
-
+Les composantes seraient les montages vidéos et montages sonores de chaque galerie. 
 
 ## Éléments nécessaires à la mise en exposition
-
+- Bancs
+- Projecteurs
+- Hauts-parleurs
+- Grand mirroir
+- Structure illuminé ( de la deuxième galerie)
+- Papillon faite de plastique holographique ( de la première galerie )
 
 ##  Expérience vécue
 
