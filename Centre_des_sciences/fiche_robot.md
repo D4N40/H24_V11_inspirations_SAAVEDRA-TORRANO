@@ -18,6 +18,6 @@ Les composantes du dispositifs sont le robot MECA500, la caméra, le montage son
 J'ai trouver très intéressant le robot qui danse. Je trouve que c'est une façon intéressante de présenter les installations de multimédia aux enfants surtout quand il y a une interaction .
 ## Mon opinion
 ### Ce qui m'a plu
-
+J'ai apprécier que chaque bloc a une image qui répresente l'action que le robot ferait, sa aide au enfants à comprendre chaque bloc fait quoi. J'ai trouver que c'était une installation très simple mais très intéressante pour les enfants.
 ###  Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
-
+Ce que je ferais autrement serait que soit je rajouterais un autre haut-parleur ou augmenter le volume de la musique. Il y a beaucoup d'enfant sur place est c'est naturel qu'ild fassent beaucoup de bruit et à cause de cela c'était difficile d'écouter la musique. C'est plus amusant, pour les enfants, voir le robot danser avec la musique. Aussi je rajouterais peut-être le fait qu'il y ait différente musique jouable et que sa soit controlable par les blocs, de la même façon que les mouvement.
